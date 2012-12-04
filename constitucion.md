@@ -1,5 +1,16 @@
+% Constitución española
+% Gabriel Cisneros Laborda; Miguel Herrero y Rodríguez de Miñón; José Pedro Pérez-Llorca Rodrigo; Manuel Fraga Iribarne; Gregorio Peces-Barba Martínez; Miquel Roca i Junyent; Jordi Solé Tura
+% 31 de octubre de 1978
+
+<!-- #constitucion,
+     ##titulo,
+     ###capitulo,
+     ####seccion,
+     #####articulo -->
+
+<!-- $id:titulo:preambulo -->
+
 ##PREÁMBULO
----
 
 La Nación española, deseando establecer la justicia, la libertad y la seguridad y promover el bien de cuantos la integran, en uso de su soberanía, proclama su voluntad de:
 
@@ -17,136 +28,251 @@ Colaborar en el fortalecimiento de unas relaciones pacíficas y de eficaz cooper
 
 En consecuencia, las Cortes aprueban y el pueblo español ratifica la siguiente
 
+<!-- $id:constitucion -->
 
 #CONSTITUCIÓN
 
+<!-- $id:titulo:preliminar -->
+
 ##TÍTULO PRELIMINAR
----
+
+<!-- $id:articulo:1 -->
 
 #####Artículo 1
 
+<!-- $id:articulo:1:1  -->
+
 1. España se constituye en un Estado social y democrático de Derecho, que propugna como valores superiores de su ordenamiento jurídico la libertad, la justicia, la igualdad y el pluralismo político.
+
+<!-- $id:articulo:1:2 -->
 
 2. La soberanía nacional reside en el pueblo español, del que emanan los poderes del Estado.
 
+<!-- $id:articulo:1:3 -->
+
 3. La forma política del Estado español es la Monarquía parlamentaria.
+
+<!-- $id:articulo:2 -->
 
 #####Artículo 2
 
+
 La Constitución se fundamenta en la indisoluble unidad de la Nación española, patria común e indivisible de todos los españoles, y reconoce y garantiza el derecho a la autonomía de las nacionalidades y regiones que la integran y la solidaridad entre todas ellas.
+
+
+<!-- $id:articulo:3 -->
 
 #####Artículo 3
 
+<!-- $id:articulo:3:1 -->
+
 1. El castellano es la lengua española oficial del Estado. Todos los españoles tienen el deber de conocerla y el derecho a usarla.
+
+<!-- $id:articulo:3:2 -->
 
 2. Las demás lenguas españolas serán también oficiales en las respectivas Comunidades Autónomas de acuerdo con sus Estatutos.
 
+<!-- $id:articulo:3:3 -->
+
 3. La riqueza de las distintas modalidades lingüísticas de España es un patrimonio cultural que será objeto de especial respeto y protección.
+
+<!-- $id:articulo:4 -->
 
 #####Artículo 4
 
+<!-- $id:articulo:4:1 -->
+
 1. La bandera de España está formada por tres franjas horizontales, roja, amarilla y roja, siendo la amarilla de doble anchura que cada una de las rojas.
 
+<!-- $id:articulo:4:2 -->
+
 2. Los Estatutos podrán reconocer banderas y enseñas propias de las Comunidades Autónomas. Estas se utilizarán junto a la bandera de España en sus edificios públicos y en sus actos oficiales.
+
+<!-- $id:articulo:5 -->
 
 #####Artículo 5
 
 La capital del Estado es la villa de Madrid.
 
+<!-- $id:articulo:6 -->
+
 #####Artículo 6
 
 Los partidos políticos expresan el pluralismo político, concurren a la formación y manifestación de la voluntad popular y son instrumento fundamental para la participación política. Su creación y el ejercicio de su actividad son libres dentro del respeto a la Constitución y a la ley. Su estructura interna y funcionamiento deberán ser democráticos.
+
+<!-- $id:articulo:7 -->
 
 #####Artículo 7
 
 Los sindicatos de trabajadores y las asociaciones empresariales contribuyen a la defensa y promoción de los intereses económicos y sociales que les son propios. Su creación y el ejercicio de su actividad son libres dentro del respeto a la Constitución y a la ley. Su estructura interna y funcionamiento deberán ser democráticos.
 
+<!-- $id:articulo:6 -->
+
 #####Artículo 8
+
+<!-- $id:articulo:8:1 -->
 
 1. Las Fuerzas Armadas, constituidas por el Ejército de Tierra, la Armada y el Ejército del Aire, tienen como misión garantizar la soberanía e independencia de España, defender su integridad territorial y el ordenamiento constitucional.
 
+<!-- $id:articulo:8:2 -->
+
 2. Una ley orgánica regulará las bases de la organización militar conforme a los principios de la presente Constitución.
+
+<!-- $id:articulo:9 -->
 
 #####Artículo 9
 
+<!-- $id:articulo:9:1 -->
+
 1. Los ciudadanos y los poderes públicos están sujetos a la Constitución y al resto del ordenamiento jurídico.
+
+<!-- $id:articulo:9:2 -->
 
 2. Corresponde a los poderes públicos promover las condiciones para que la libertad y la igualdad del individuo y de los grupos en que se integra sean reales y efectivas; remover los obstáculos que impidan o dificulten su plenitud y facilitar la participación de todos los ciudadanos en la vida política, económica, cultural y social.
 
+<!-- $id:articulo:9:3 -->
+
 3. La Constitución garantiza el principio de legalidad, la jerarquía normativa, la publicidad de las normas, la irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales, la seguridad jurídica, la responsabilidad y la interdicción de la arbitrariedad de los poderes públicos.
 
+<!-- $id:titulo:1 -->
+
 ##TÍTULO I. De los derechos y deberes fundamentales
----
+
+<!-- $id:articulo:10 -->
 
 #####Artículo 10
 
+<!-- $id:articulo:10:1 -->
+
 1. La dignidad de la persona, los derechos inviolables que le son inherentes, el libre desarrollo de la personalidad, el respeto a la ley y a los derechos de los demás son fundamento del orden político y de la paz social.
+
+<!-- $id:articulo:10:2 -->
 
 2. Las normas relativas a los derechos fundamentales y a las libertades que la Constitución reconoce se interpretarán de conformidad con la Declaración Universal de Derechos Humanos y los tratados y acuerdos internacionales sobre las mismas materias ratificados por España.
 
+<!-- $id:capitulo:1 -->
+
 ###CAPÍTULO PRIMERO. De los españoles y los extranjeros
+
+<!-- $id:articulo:11 -->
 
 #####Artículo 11
 
+<!-- $id:articulo:11:1 -->
+
 1. La nacionalidad española se adquiere, se conserva y se pierde de acuerdo con lo establecido por la ley.
+
+<!-- $id:articulo:11:2 -->
 
 2. Ningún español de origen podrá ser privado de su nacionalidad.
 
+<!-- $id:articulo:11:3 -->
+
 3. El Estado podrá concertar tratados de doble nacionalidad con los países iberoamericanos o con aquellos que hayan tenido o tengan una particular vinculación con España. En estos mismos países, aun cuando no reconozcan a sus ciudadanos un derecho recíproco, podrán naturalizarse los españoles sin perder su nacionalidad de origen.
+
+<!-- $id:articulo:12 -->
 
 #####Artículo 12
 
 Los españoles son mayores de edad a los dieciocho años.
 
+<!-- $id:articulo:13 -->
+
 #####Artículo 13
+
+<!-- $id:articulo:13:1 -->
 
 1. Los extranjeros gozarán en España de las libertades públicas que garantiza el presente Título en los términos que establezcan los tratados y la ley.
 
+<!-- $id:articulo:13:2 -->
+
 2. Solamente los españoles serán titulares de los derechos reconocidos en elArtículo 23, salvo lo que, atendiendo a criterios de reciprocidad, pueda establecerse por tratado o ley para el derecho de sufragio activo y pasivo en las elecciones municipales.
+
+<!-- $id:articulo:13:3 -->
 
 3. La extradición sólo se concederá en cumplimiento de un tratado o de la ley, atendiendo al principio de reciprocidad. Quedan excluidos de la extradición los delitos políticos, no considerándose como tales los actos de terrorismo.
 
+<!-- $id:articulo:13:4 -->
+
 4. La ley establecerá los términos en que los ciudadanos de otros países y los apátridas podrán gozar del derecho de asilo en España.
+
+<!-- $id:capitulo:2 -->
 
 ###CAPÍTULO SEGUNDO. Derechos y libertades
 
-#####Artículo 14
+<!-- $id:articulo:14 -->
+
+##### Artículo 14
 
 Los españoles son iguales ante la ley, sin que pueda prevalecer discriminación alguna por razón de nacimiento, raza, sexo, religión, opinión o cualquier otra condición o circunstancia personal o social.
 
+<!-- $id:seccion:1 -->
+
 ####Sección 1.ª De los derechos fundamentales y de las libertades públicas
 
-#####Artículo 15
+<!-- $id:articulo:15 -->
+
+##### Artículo 15
 
 Todos tienen derecho a la vida y a la integridad física y moral, sin que, en ningún caso, puedan ser sometidos a tortura ni a penas o tratos inhumanos o degradantes. Queda abolida la pena de muerte, salvo lo que puedan disponer las leyes penales militares para tiempos de guerra.
 
+<!-- $id:articulo:16 -->
+
 #####Artículo 16
+
+<!-- $id:articulo:16:1 -->
 
 1. Se garantiza la libertad ideológica, religiosa y de culto de los individuos y las comunidades sin más limitación, en sus manifestaciones, que la necesaria para el mantenimiento del orden público protegido por la ley.
 
+<!-- $id:articulo:16:2 -->
+
 2. Nadie podrá ser obligado a declarar sobre su ideología, religión o creencias.
+
+<!-- $id:articulo:16:3 -->
 
 3. Ninguna confesión tendrá carácter estatal. Los poderes públicos tendrán en cuenta las creencias religiosas de la sociedad española y mantendrán las consiguientes relaciones de cooperación con la Iglesia Católica y las demás confesiones.
 
+<!-- $id:articulo:17 -->
+
 #####Artículo 17
+
+<!-- $id:articulo:17:1 -->
 
 1. Toda persona tiene derecho a la libertad y a la seguridad. Nadie puede ser privado de su libertad, sino con la observancia de lo establecido en esteArtículo y en los casos y en la forma previstos en la ley.
 
+<!-- $id:articulo:17:2 -->
+
 2. La detención preventiva no podrá durar más del tiempo estrictamente necesario para la realización de las averiguaciones tendentes al esclarecimiento de los hechos, y, en todo caso, en el plazo máximo de setenta y dos horas, el detenido deberá ser puesto en libertad o a disposición de la autoridad judicial.
+
+<!-- $id:articulo:17:3 -->
 
 3. Toda persona detenida debe ser informada de forma inmediata, y de modo que le sea comprensible, de sus derechos y de las razones de su detención, no pudiendo ser obligada a declarar. Se garantiza la asistencia de abogado al detenido en las diligencias policiales y judiciales, en los términos que la ley establezca.
 
+<!-- $id:articulo:17:4 -->
+
 4. La ley regulará un procedimiento de «habeas corpus» para producir la inmediata puesta a disposición judicial de toda persona detenida ilegalmente. Asimismo, por ley se determinará el plazo máximo de duración de la prisión provisional.
+
+<!-- $id:articulo:18 -->
 
 #####Artículo 18
 
+<!-- $id:articulo:18:1 -->
+
 1. Se garantiza el derecho al honor, a la intimidad personal y familiar y a la propia imagen.
+
+<!-- $id:articulo:18:2 -->
 
 2. El domicilio es inviolable. Ninguna entrada o registro podrá hacerse en él sin consentimiento del titular o resolución judicial, salvo en caso de flagrante delito.
 
+<!-- $id:articulo:18:3 -->
+
 3. Se garantiza el secreto de las comunicaciones y, en especial, de las postales, telegráficas y telefónicas, salvo resolución judicial.
 
+<!-- $id:articulo:18:4 -->
+
 4. La ley limitará el uso de la informática para garantizar el honor y la intimidad personal y familiar de los ciudadanos y el pleno ejercicio de sus derechos.
+
+<!-- $id:articulo:19 -->
 
 #####Artículo 19
 
@@ -154,37 +280,71 @@ Los españoles tienen derecho a elegir libremente su residencia y a circular por
 
 Asimismo, tienen derecho a entrar y salir libremente de España en los términos que la ley establezca. Este derecho no podrá ser limitado por motivos políticos o ideológicos.
 
+<!-- $id:articulo:20 -->
+
 #####Artículo 20
 
+<!-- $id:articulo:20:1 -->
+
 1. Se reconocen y protegen los derechos:
-   a. A expresar y difundir libremente los pensamientos, ideas y opiniones mediante la palabra, el escrito o cualquier otro medio de reproducción.
-   b. A la producción y creación literaria, artística, científica y técnica.
-   c. A la libertad de cátedra.
-   d. A comunicar o recibir libremente información veraz por cualquier medio de difusión. La ley regulará el derecho a la cláusula de conciencia y al secreto profesional en el ejercicio de estas libertades.
+	<!-- $id:articulo:20:1:a -->
+    a. A expresar y difundir libremente los pensamientos, ideas y opiniones mediante la palabra, el escrito o cualquier otro medio de reproducción.
+    <!-- $id:articulo:20:1:b -->
+    b. A la producción y creación literaria, artística, científica y técnica.
+    <!-- $id:articulo:20:1:c -->
+    c. A la libertad de cátedra.
+    <!-- $id:articulo:20:1:d -->
+    d. A comunicar o recibir libremente información veraz por cualquier medio de difusión. La ley regulará el derecho a la cláusula de conciencia y al secreto profesional en el ejercicio de estas libertades.
+
+<!-- $id:articulo:20:2 -->
 
 2. El ejercicio de estos derechos no puede restringirse mediante ningún tipo de censura previa.
 
+<!-- $id:articulo:20:3 -->
+
 3. La ley regulará la organización y el control parlamentario de los medios de comunicación social dependientes del Estado o de cualquier ente público y garantizará el acceso a dichos medios de los grupos sociales y políticos significativos, respetando el pluralismo de la sociedad y de las diversas lenguas de España.
+
+<!-- $id:articulo:20:4 -->
 
 4. Estas libertades tienen su límite en el respeto a los derechos reconocidos en este Título, en los preceptos de las leyes que lo desarrollen y, especialmente, en el derecho al honor, a la intimidad, a la propia imagen y a la protección de la juventud y de la infancia.
 
+<!-- $id:articulo:20:5 -->
+
 5. Sólo podrá acordarse el secuestro de publicaciones, grabaciones y otros medios de información en virtud de resolución judicial.
+
+<!-- $id:articulo:21 -->
 
 #####Artículo 21
 
+<!-- $id:articulo:21:1 -->
+
 1. Se reconoce el derecho de reunión pacífica y sin armas. El ejercicio de este derecho no necesitará autorización previa.
+
+<!-- $id:articulo:21:2 -->
 
 2. En los casos de reuniones en lugares de tránsito público y manifestaciones se dará comunicación previa a la autoridad, que sólo podrá prohibirlas cuando existan razones fundadas de alteración del orden público, con peligro para personas o bienes.
 
+<!-- $id:articulo:22 -->
+
 #####Artículo 22
+
+<!-- $id:articulo:22:1 -->
 
 1. Se reconoce el derecho de asociación.
 
+<!-- $id:articulo:22:2 -->
+
 2. Las asociaciones que persigan fines o utilicen medios tipificados como delito son ilegales.
+
+<!-- $id:articulo:22:3 -->
 
 3. Las asociaciones constituidas al amparo de esteArtículo deberán inscribirse en un registro a los solos efectos de publicidad.
 
+<!-- $id:articulo:22:4 -->
+
 4. Las asociaciones sólo podrán ser disueltas o suspendidas en sus actividades en virtud de resolución judicial motivada.
+
+<!-- $id:articulo:22:5 -->
 
 5. Se prohíben las asociaciones secretas y las de carácter paramilitar.
 
@@ -248,7 +408,7 @@ Se prohíben los Tribunales de Honor en el ámbito de la Administración civil y
 
 2. Los miembros de las Fuerzas o Institutos armados o de los Cuerpos sometidos a disciplina militar podrán ejercer este derecho sólo individualmente y con arreglo a lo dispuesto en su legislación específica.
 
-Sección 2.ª De los derechos y deberes de los ciudadanos
+####Sección 2.ª De los derechos y deberes de los ciudadanos
 
 #####Artículo 30
 
@@ -351,7 +511,7 @@ El Estado velará especialmente por la salvaguardia de los derechos económicos 
 #####Artículo 45
 
 1. Todos tienen el derecho a disfrutar de un medio ambiente adecuado para el desarrollo de la persona, así como el deber de conservarlo.
-2. 
+ 
 2. Los poderes públicos velarán por la utilización racional de todos los recursos naturales, con el fin de proteger y mejorar la calidad de la vida y defender y restaurar el medio ambiente, apoyándose en la indispensable solidaridad colectiva.
 
 3. Para quienes violen lo dispuesto en el apartado anterior, en los términos que la ley fije se establecerán sanciones penales o, en su caso, administrativas, así como la obligación de reparar el daño causado.
@@ -402,8 +562,7 @@ La ley regulará las organizaciones profesionales que contribuyan a la defensa d
 
 Una ley orgánica regulará la institución del Defensor del Pueblo, como alto comisionado de las Cortes Generales, designado por éstas para la defensa de los derechos comprendidos en este Título, a cuyo efecto podrá supervisar la actividad de la Administración, dando cuenta a las Cortes Generales.
 
-CAPÍTULO QUINTO
-De la suspensión de los derechos y libertades
+###CAPÍTULO QUINTO. De la suspensión de los derechos y libertades
 
 #####Artículo 55
 
@@ -461,7 +620,7 @@ La Reina consorte o el consorte de la Reina no podrán asumir funciones constitu
 
 1. El Rey, al ser proclamado ante las Cortes Generales, prestará juramento de desempeñar fielmente sus funciones, guardar y hacer guardar la Constitución y las leyes y respetar los derechos de los ciudadanos y de las Comunidades Autónomas.
 
-2. El Príncipe heredero, al alcanzar la mayoría de edad, y el Regente o Regentes al hacerse cargo de sus funciones, prestarán el mismo juramento, así como el de fidelidad al Rey.
+2. El Príncipe heredero, al alcanzar la mayoría de edad, y el Regente o Regentes al hacerse cargo de sus funciones, prestarárán el mismo juramento, así como el de fidelidad al Rey.
 
 #####Artículo 62
 
@@ -561,17 +720,17 @@ La ley reconocerá y el Estado facilitará el ejercicio del derecho de sufragio 
 
 1. La ley electoral determinará las causas de inelegibilidad e incompatibilidad de los Diputados y Senadores, que comprenderán, en todo caso:
 
-   a. A los componentes del Tribunal Constitucional.
+    a. A los componentes del Tribunal Constitucional.
 
-   b. A los altos cargos de la Administración del Estado que determine la ley, con la excepción de los miembros del Gobierno.
+    b. A los altos cargos de la Administración del Estado que determine la ley, con la excepción de los miembros del Gobierno.
 
-   c. Al Defensor del Pueblo.
+    c. Al Defensor del Pueblo.
 
-   d. A los Magistrados, Jueces y Fiscales en activo.
+    d. A los Magistrados, Jueces y Fiscales en activo.
 
-   e. A los militares profesionales y miembros de las Fuerzas y Cuerpos de Seguridad y Policía en activo.
+    e. A los militares profesionales y miembros de las Fuerzas y Cuerpos de Seguridad y Policía en activo.
 
-   f. A los miembros de las Juntas Electorales.
+    f. A los miembros de las Juntas Electorales.
 
 2. La validez de las actas y credenciales de los miembros de ambas Cámaras estará sometida al control judicial, en los términos que establezca la ley electoral.
 
@@ -741,15 +900,15 @@ Mediante ley orgánica se podrá autorizar la celebración de tratados por los q
 
 1. La prestación del consentimiento del Estado para obligarse por medio de tratados o convenios requerirá la previa autorización de las Cortes Generales, en los siguientes casos:
 
-   a. Tratados de carácter político.
+    a. Tratados de carácter político.
 
-   b. Tratados o convenios de carácter militar.
+    b. Tratados o convenios de carácter militar.
 
-   c. Tratados o convenios que afecten a la integridad territorial del Estado o a los derechos y deberes fundamentales establecidos en el Título I.
+    c. Tratados o convenios que afecten a la integridad territorial del Estado o a los derechos y deberes fundamentales establecidos en el Título I.
 
-   d. Tratados o convenios que impliquen obligaciones financieras para la Hacienda Pública.
+    d. Tratados o convenios que impliquen obligaciones financieras para la Hacienda Pública.
 
-   e. Tratados o convenios que supongan modificación o derogación de alguna ley o exijan medidas legislativas para su ejecución.
+    e. Tratados o convenios que supongan modificación o derogación de alguna ley o exijan medidas legislativas para su ejecución.
 
 2. El Congreso y el Senado serán inmediatamente informados de la conclusión de los restantes tratados o convenios.
 
@@ -1064,11 +1223,11 @@ El volumen de deuda pública del conjunto de las Administraciones Públicas en r
 
 5. Una ley orgánica desarrollará los principios a que se refiere este Artículo, así como la participación, en los procedimientos respectivos, de los órganos de coordinación institucional entre las Administraciones Públicas en materia de política fiscal y financiera. En todo caso, regulará:
 
-   a. La distribución de los límites de déficit y de deuda entre las distintas Administraciones Públicas, los supuestos excepcionales de superación de los mismos y la forma y plazo de corrección de las desviaciones que sobre uno y otro pudieran producirse.
+    a. La distribución de los límites de déficit y de deuda entre las distintas Administraciones Públicas, los supuestos excepcionales de superación de los mismos y la forma y plazo de corrección de las desviaciones que sobre uno y otro pudieran producirse.
 
-   b. La metodología y el procedimiento para el cálculo del déficit estructural.
+    b. La metodología y el procedimiento para el cálculo del déficit estructural.
 
-   c. La responsabilidad de cada Administración Pública en caso de incumplimiento de los objetivos de estabilidad presupuestaria.
+    c. La responsabilidad de cada Administración Pública en caso de incumplimiento de los objetivos de estabilidad presupuestaria.
 
 6. Las Comunidades Autónomas, de acuerdo con sus respectivos Estatutos y dentro de los límites a que se refiere este Artículo, adoptarán las disposiciones que procedan para la aplicación efectiva del principio de estabilidad en sus normas y decisiones presupuestarias.
 
@@ -1164,13 +1323,13 @@ El proyecto de Estatuto será elaborado por una asamblea compuesta por los miemb
 
 2. Los Estatutos de autonomía deberán contener:
 
-   a. La denominación de la Comunidad que mejor corresponda a su identidad histórica.
+    a. La denominación de la Comunidad que mejor corresponda a su identidad histórica.
 
-   b. La delimitación de su territorio.
+    b. La delimitación de su territorio.
 
-   c. La denominación, organización y sede de las instituciones autónomas propias.
+    c. La denominación, organización y sede de las instituciones autónomas propias.
 
-   d. Las competencias asumidas dentro del marco establecido en la Constitución y las bases para el traspaso de los servicios correspondientes a las mismas.
+    d. Las competencias asumidas dentro del marco establecido en la Constitución y las bases para el traspaso de los servicios correspondientes a las mismas.
 
 3. La reforma de los Estatutos se ajustará al procedimiento establecido en los mismos y requerirá, en todo caso, la aprobación por las Cortes Generales, mediante ley orgánica.
 
@@ -1178,49 +1337,49 @@ El proyecto de Estatuto será elaborado por una asamblea compuesta por los miemb
 
 1. Las Comunidades Autónomas podrán asumir competencias en las siguientes materias:
 
-   1.ª Organización de sus instituciones de autogobierno.
+    1.ª Organización de sus instituciones de autogobierno.
 
-   2.ª Las alteraciones de los términos municipales comprendidos en su territorio y, en general, las funciones que correspondan a la Administración del Estado sobre las Corporaciones locales y cuya transferencia autorice la legislación sobre Régimen Local.
+    2.ª Las alteraciones de los términos municipales comprendidos en su territorio y, en general, las funciones que correspondan a la Administración del Estado sobre las Corporaciones locales y cuya transferencia autorice la legislación sobre Régimen Local.
 
-   3.ª Ordenación del territorio, urbanismo y vivienda.
+    3.ª Ordenación del territorio, urbanismo y vivienda.
 
-   4.ª Las obras públicas de interés de la Comunidad Autónoma en su propio territorio.
+    4.ª Las obras públicas de interés de la Comunidad Autónoma en su propio territorio.
 
-   5.ª Los ferrocarriles y carreteras cuyo itinerario se desarrolle íntegramente en el territorio de la Comunidad Autónoma y, en los mismos términos, el transporte desarrollado por estos medios o por cable.
+    5.ª Los ferrocarriles y carreteras cuyo itinerario se desarrolle íntegramente en el territorio de la Comunidad Autónoma y, en los mismos términos, el transporte desarrollado por estos medios o por cable.
 
-   6.ª Los puertos de refugio, los puertos y aeropuertos deportivos y, en general, los que no desarrollen actividades comerciales.
+    6.ª Los puertos de refugio, los puertos y aeropuertos deportivos y, en general, los que no desarrollen actividades comerciales.
 
-   7.ª La agricultura y ganadería, de acuerdo con la ordenación general de la economía.
+    7.ª La agricultura y ganadería, de acuerdo con la ordenación general de la economía.
 
-   8.ª Los montes y aprovechamientos forestales.
+    8.ª Los montes y aprovechamientos forestales.
 
-   9.ª La gestión en materia de protección del medio ambiente.
+    9.ª La gestión en materia de protección del medio ambiente.
 
-   10.ª Los proyectos, construcción y explotación de los aprovechamientos hidráulicos, canales y regadíos de interés de la Comunidad Autónoma; las aguas minerales y termales.
+    10.ª Los proyectos, construcción y explotación de los aprovechamientos hidráulicos, canales y regadíos de interés de la Comunidad Autónoma; las aguas minerales y termales.
 
-   11.ª La pesca en aguas interiores, el marisqueo y la acuicultura, la caza y la pesca fluvial.
+    11.ª La pesca en aguas interiores, el marisqueo y la acuicultura, la caza y la pesca fluvial.
 
-   12.ª Ferias interiores.
+    12.ª Ferias interiores.
 
-   13.ª El fomento del desarrollo económico de la Comunidad Autónoma dentro de los objetivos marcados por la política económica nacional.
+    13.ª El fomento del desarrollo económico de la Comunidad Autónoma dentro de los objetivos marcados por la política económica nacional.
 
-   14.ª La artesanía.
+    14.ª La artesanía.
 
-   15.ª Museos, bibliotecas y conservatorios de música de interés para la Comunidad Autónoma.
+    15.ª Museos, bibliotecas y conservatorios de música de interés para la Comunidad Autónoma.
 
-   16.ª Patrimonio monumental de interés de la Comunidad Autónoma.
+    16.ª Patrimonio monumental de interés de la Comunidad Autónoma.
 
-   17.ª El fomento de la cultura, de la investigación y, en su caso, de la enseñanza de la lengua de la Comunidad Autónoma.
+    17.ª El fomento de la cultura, de la investigación y, en su caso, de la enseñanza de la lengua de la Comunidad Autónoma.
 
-   18.ª Promoción y ordenación del turismo en su ámbito territorial.
+    18.ª Promoción y ordenación del turismo en su ámbito territorial.
 
-   19.ª Promoción del deporte y de la adecuada utilización del ocio.
+    19.ª Promoción del deporte y de la adecuada utilización del ocio.
 
-   20.ª Asistencia social.
+    20.ª Asistencia social.
 
-   21.ª Sanidad e higiene.
+    21.ª Sanidad e higiene.
 
-   22.ª La vigilancia y protección de sus edificios e instalaciones. La coordinación y demás facultades en relación con las policías locales en los términos que establezca una ley orgánica.
+    22.ª La vigilancia y protección de sus edificios e instalaciones. La coordinación y demás facultades en relación con las policías locales en los términos que establezca una ley orgánica.
 
 2. Transcurridos cinco años, y mediante la reforma de sus Estatutos, las Comunidades Autónomas podrán ampliar sucesivamente sus competencias dentro del marco establecido en el Artículo 149.
 
@@ -1228,69 +1387,69 @@ El proyecto de Estatuto será elaborado por una asamblea compuesta por los miemb
 
 1. El Estado tiene competencia exclusiva sobre las siguientes materias:
 
-   1.ª La regulación de las condiciones básicas que garanticen la igualdad de todos los españoles en el ejercicio de los derechos y en el cumplimiento de los deberes constitucionales.
+    1.ª La regulación de las condiciones básicas que garanticen la igualdad de todos los españoles en el ejercicio de los derechos y en el cumplimiento de los deberes constitucionales.
 
-   2.ª Nacionalidad, inmigración, emigración, extranjería y derecho de asilo.
+    2.ª Nacionalidad, inmigración, emigración, extranjería y derecho de asilo.
 
-   3.ª Relaciones internacionales.
+    3.ª Relaciones internacionales.
 
-   4.ª Defensa y Fuerzas Armadas.
+    4.ª Defensa y Fuerzas Armadas.
 
-   5.ª Administración de Justicia.
+    5.ª Administración de Justicia.
 
-   6.ª Legislación mercantil, penal y penitenciaria; legislación procesal, sin perjuicio de las necesarias especialidades que en este orden se deriven de las particularidades del derecho sustantivo de las Comunidades Autónomas.
+    6.ª Legislación mercantil, penal y penitenciaria; legislación procesal, sin perjuicio de las necesarias especialidades que en este orden se deriven de las particularidades del derecho sustantivo de las Comunidades Autónomas.
 
-   7.ª Legislación laboral; sin perjuicio de su ejecución por los órganos de las Comunidades Autónomas.
+    7.ª Legislación laboral; sin perjuicio de su ejecución por los órganos de las Comunidades Autónomas.
 
-   8.ª Legislación civil, sin perjuicio de la conservación, modificación y desarrollo por las Comunidades Autónomas de los derechos civiles, forales o especiales, allí donde existan. En todo caso, las reglas relativas a la aplicación y eficacia de las normas jurídicas, relaciones jurídico-civiles relativas a las formas de matrimonio, ordenación de los registros e instrumentos públicos, bases de las obligaciones contractuales, normas para resolver los conflictos de leyes y determinación de las fuentes del Derecho, con respeto, en este último caso, a las normas de derecho foral o especial.
+    8.ª Legislación civil, sin perjuicio de la conservación, modificación y desarrollo por las Comunidades Autónomas de los derechos civiles, forales o especiales, allí donde existan. En todo caso, las reglas relativas a la aplicación y eficacia de las normas jurídicas, relaciones jurídico-civiles relativas a las formas de matrimonio, ordenación de los registros e instrumentos públicos, bases de las obligaciones contractuales, normas para resolver los conflictos de leyes y determinación de las fuentes del Derecho, con respeto, en este último caso, a las normas de derecho foral o especial.
 
-   9.ª Legislación sobre propiedad intelectual e industrial.
+    9.ª Legislación sobre propiedad intelectual e industrial.
 
-   10.ª Régimen aduanero y arancelario; comercio exterior.
+    10.ª Régimen aduanero y arancelario; comercio exterior.
 
-   11.ª Sistema monetario: divisas, cambio y convertibilidad; bases de la ordenación de crédito, banca y seguros.
+    11.ª Sistema monetario: divisas, cambio y convertibilidad; bases de la ordenación de crédito, banca y seguros.
 
-   12.ª Legislación sobre pesas y medidas, determinación de la hora oficial.
+    12.ª Legislación sobre pesas y medidas, determinación de la hora oficial.
 
-   13.ª Bases y coordinación de la planificación general de la actividad económica.
+    13.ª Bases y coordinación de la planificación general de la actividad económica.
 
-   14.ª Hacienda general y Deuda del Estado.
+    14.ª Hacienda general y Deuda del Estado.
 
-   15.ª Fomento y coordinación general de la investigación científica y técnica.
+    15.ª Fomento y coordinación general de la investigación científica y técnica.
 
-   16.ª Sanidad exterior. Bases y coordinación general de la sanidad. Legislación sobre productos farmacéuticos.
+    16.ª Sanidad exterior. Bases y coordinación general de la sanidad. Legislación sobre productos farmacéuticos.
 
-   17.ª Legislación básica y régimen económico de la Seguridad Social, sin perjuicio de la ejecución de sus servicios por las Comunidades Autónomas.
+    17.ª Legislación básica y régimen económico de la Seguridad Social, sin perjuicio de la ejecución de sus servicios por las Comunidades Autónomas.
 
-   18.ª Las bases del régimen jurídico de las Administraciones públicas y del régimen estatutario de sus funcionarios que, en todo caso, garantizarán a los administrados un tratamiento común ante ellas; el procedimiento administrativo común, sin perjuicio de las especialidades derivadas de la organización propia de las Comunidades Autónomas; legislación sobre expropiación forzosa; legislación básica sobre contratos y concesiones administrativas y el sistema de responsabilidad de todas las Administraciones públicas.
+    18.ª Las bases del régimen jurídico de las Administraciones públicas y del régimen estatutario de sus funcionarios que, en todo caso, garantizarán a los administrados un tratamiento común ante ellas; el procedimiento administrativo común, sin perjuicio de las especialidades derivadas de la organización propia de las Comunidades Autónomas; legislación sobre expropiación forzosa; legislación básica sobre contratos y concesiones administrativas y el sistema de responsabilidad de todas las Administraciones públicas.
 
-   19.ª Pesca marítima, sin perjuicio de las competencias que en la ordenación del sector se atribuyan a las Comunidades Autónomas.
+    19.ª Pesca marítima, sin perjuicio de las competencias que en la ordenación del sector se atribuyan a las Comunidades Autónomas.
 
-   20.ª Marina mercante y abanderamiento de buques; iluminación de costas y señales marítimas; puertos de interés general; aeropuertos de interés general; control del espacio aéreo, tránsito y transporte aéreo, servicio meteorológico y matriculación de aeronaves.
+    20.ª Marina mercante y abanderamiento de buques; iluminación de costas y señales marítimas; puertos de interés general; aeropuertos de interés general; control del espacio aéreo, tránsito y transporte aéreo, servicio meteorológico y matriculación de aeronaves.
 
-   21.ª Ferrocarriles y transportes terrestres que transcurran por el territorio de más de una Comunidad Autónoma; régimen general de comunicaciones; tráfico y circulación de vehículos a motor; correos y telecomunicaciones; cables aéreos, submarinos y radiocomunicación.
+    21.ª Ferrocarriles y transportes terrestres que transcurran por el territorio de más de una Comunidad Autónoma; régimen general de comunicaciones; tráfico y circulación de vehículos a motor; correos y telecomunicaciones; cables aéreos, submarinos y radiocomunicación.
 
-   22.ª La legislación, ordenación y concesión de recursos y aprovechamientos hidráulicos cuando las aguas discurran por más de una Comunidad Autónoma, y la autorización de las instalaciones eléctricas cuando su aprovechamiento afecte a otra Comunidad o el transporte de energía salga de su ámbito territorial.
+    22.ª La legislación, ordenación y concesión de recursos y aprovechamientos hidráulicos cuando las aguas discurran por más de una Comunidad Autónoma, y la autorización de las instalaciones eléctricas cuando su aprovechamiento afecte a otra Comunidad o el transporte de energía salga de su ámbito territorial.
 
-   23.ª Legislación básica sobre protección del medio ambiente, sin perjuicio de las facultades de las Comunidades Autónomas de establecer normas adicionales de protección. La legislación básica sobre montes, aprovechamientos forestales y vías pecuarias.
+    23.ª Legislación básica sobre protección del medio ambiente, sin perjuicio de las facultades de las Comunidades Autónomas de establecer normas adicionales de protección. La legislación básica sobre montes, aprovechamientos forestales y vías pecuarias.
 
-   24.ª Obras públicas de interés general o cuya realización afecte a más de una Comunidad Autónoma.
+    24.ª Obras públicas de interés general o cuya realización afecte a más de una Comunidad Autónoma.
 
-   25.ª Bases de régimen minero y energético.
+    25.ª Bases de régimen minero y energético.
 
-   26.ª Régimen de producción, comercio, tenencia y uso de armas y explosivos.
+    26.ª Régimen de producción, comercio, tenencia y uso de armas y explosivos.
 
-   27.ª Normas básicas del régimen de prensa, radio y televisión y, en general, de todos los medios de comunicación social, sin perjuicio de las facultades que en su desarrollo y ejecución correspondan a las Comunidades Autónomas.
+    27.ª Normas básicas del régimen de prensa, radio y televisión y, en general, de todos los medios de comunicación social, sin perjuicio de las facultades que en su desarrollo y ejecución correspondan a las Comunidades Autónomas.
 
-   28.ª Defensa del patrimonio cultural, artístico y monumental español contra la exportación y la expoliación; museos, bibliotecas y archivos de titularidad estatal, sin perjuicio de su gestión por parte de las Comunidades Autónomas.
+    28.ª Defensa del patrimonio cultural, artístico y monumental español contra la exportación y la expoliación; museos, bibliotecas y archivos de titularidad estatal, sin perjuicio de su gestión por parte de las Comunidades Autónomas.
 
-   29.ª Seguridad pública, sin perjuicio de la posibilidad de creación de policías por las Comunidades Autónomas en la forma que se establezca en los respectivos Estatutos en el marco de lo que disponga una ley orgánica.
+    29.ª Seguridad pública, sin perjuicio de la posibilidad de creación de policías por las Comunidades Autónomas en la forma que se establezca en los respectivos Estatutos en el marco de lo que disponga una ley orgánica.
 
-   30.ª Regulación de las condiciones de obtención, expedición y homologación de títulos académicos y profesionales y normas básicas para el desarrollo del Artículo 27 de la Constitución, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia.
+    30.ª Regulación de las condiciones de obtención, expedición y homologación de títulos académicos y profesionales y normas básicas para el desarrollo del Artículo 27 de la Constitución, a fin de garantizar el cumplimiento de las obligaciones de los poderes públicos en esta materia.
 
-   31.ª Estadística para fines estatales.
+    31.ª Estadística para fines estatales.
 
-   32.ª Autorización para la convocatoria de consultas populares por vía de referéndum.
+    32.ª Autorización para la convocatoria de consultas populares por vía de referéndum.
 
 2. Sin perjuicio de las competencias que podrán asumir las Comunidades Autónomas, el Estado considerará el servicio de la cultura como deber y atribución esencial y facilitará la comunicación cultural entre las Comunidades Autónomas, de acuerdo con ellas.
 
@@ -1310,15 +1469,15 @@ El proyecto de Estatuto será elaborado por una asamblea compuesta por los miemb
 
 2. En el supuesto previsto en el apartado anterior, el procedimiento para la elaboración del Estatuto será el siguiente:
 
-   1.º El Gobierno convocará a todos los Diputados y Senadores elegidos en las circunscripciones comprendidas en el ámbito territorial que pretenda acceder al autogobierno, para que se constituyan en Asamblea, a los solos efectos de elaborar el correspondiente proyecto de Estatuto de autonomía, mediante el acuerdo de la mayoría absoluta de sus miembros.
+    1.º El Gobierno convocará a todos los Diputados y Senadores elegidos en las circunscripciones comprendidas en el ámbito territorial que pretenda acceder al autogobierno, para que se constituyan en Asamblea, a los solos efectos de elaborar el correspondiente proyecto de Estatuto de autonomía, mediante el acuerdo de la mayoría absoluta de sus miembros.
 
-   2.º Aprobado el proyecto de Estatuto por la Asamblea de Parlamentarios, se remitirá a la Comisión Constitucional del Congreso, la cual, dentro del plazo de dos meses, lo examinará con el concurso y asistencia de una delegación de la Asamblea proponente para determinar de común acuerdo su formulación definitiva.
+    2.º Aprobado el proyecto de Estatuto por la Asamblea de Parlamentarios, se remitirá a la Comisión Constitucional del Congreso, la cual, dentro del plazo de dos meses, lo examinará con el concurso y asistencia de una delegación de la Asamblea proponente para determinar de común acuerdo su formulación definitiva.
 
-   3.º Si se alcanzare dicho acuerdo, el texto resultante será sometido a referéndum del cuerpo electoral de las provincias comprendidas en el ámbito territorial del proyectado Estatuto.
+    3.º Si se alcanzare dicho acuerdo, el texto resultante será sometido a referéndum del cuerpo electoral de las provincias comprendidas en el ámbito territorial del proyectado Estatuto.
 
-   4.º Si el proyecto de Estatuto es aprobado en cada provincia por la mayoría de los votos válidamente emitidos, será elevado a las Cortes Generales. Los plenos de ambas Cámaras decidirán sobre el texto mediante un voto de ratificación. Aprobado el Estatuto, el Rey lo sancionará y lo promulgará como ley.
+    4.º Si el proyecto de Estatuto es aprobado en cada provincia por la mayoría de los votos válidamente emitidos, será elevado a las Cortes Generales. Los plenos de ambas Cámaras decidirán sobre el texto mediante un voto de ratificación. Aprobado el Estatuto, el Rey lo sancionará y lo promulgará como ley.
 
-   5.º De no alcanzarse el acuerdo a que se refiere el apartado 2 de este número, el proyecto de Estatuto será tramitado como proyecto de ley ante las Cortes Generales. El texto aprobado por éstas será sometido a referéndum del cuerpo electoral de las provincias comprendidas en el ámbito territorial del proyectado Estatuto. En caso de ser aprobado por la mayoría de los votos válidamente emitidos en cada provincia, procederá su promulgación en los términos del párrafo anterior.
+    5.º De no alcanzarse el acuerdo a que se refiere el apartado 2 de este número, el proyecto de Estatuto será tramitado como proyecto de ley ante las Cortes Generales. El texto aprobado por éstas será sometido a referéndum del cuerpo electoral de las provincias comprendidas en el ámbito territorial del proyectado Estatuto. En caso de ser aprobado por la mayoría de los votos válidamente emitidos en cada provincia, procederá su promulgación en los términos del párrafo anterior.
 
 3. En los casos de los párrafos 4.º y 5.º del apartado anterior, la no aprobación del proyecto de Estatuto por una o varias provincias no impedirá la constitución entre las restantes de la Comunidad Autónoma proyectada, en la forma que establezca la ley orgánica prevista en el apartado 1 de esteArtículo.
 
@@ -1338,13 +1497,13 @@ Sin perjuicio de lo dispuesto en elArtículo 123, las sucesivas instancias proce
 
 El control de la actividad de los órganos de las Comunidades Autónomas se ejercerá:
 
-   a. Por el Tribunal Constitucional, el relativo a la constitucionalidad de sus disposiciones normativas con fuerza de ley.
+a. Por el Tribunal Constitucional, el relativo a la constitucionalidad de sus disposiciones normativas con fuerza de ley.
 
-   b. Por el Gobierno, previo dictamen del Consejo de Estado, el del ejercicio de funciones delegadas a que se refiere el apartado 2 delArtículo 150.
+b. Por el Gobierno, previo dictamen del Consejo de Estado, el del ejercicio de funciones delegadas a que se refiere el apartado 2 delArtículo 150.
 
-   c. Por la jurisdicción contencioso-administrativa, el de la administración autónoma y sus normas reglamentarias.
+c. Por la jurisdicción contencioso-administrativa, el de la administración autónoma y sus normas reglamentarias.
 
-   d. Por el Tribunal de Cuentas, el económico y presupuestario.
+d. Por el Tribunal de Cuentas, el económico y presupuestario.
 
 #####Artículo 154
 
@@ -1366,15 +1525,15 @@ Un Delegado nombrado por el Gobierno dirigirá la Administración del Estado en 
 
 1. Los recursos de las Comunidades Autónomas estarán constituidos por:
 
-   a. Impuestos cedidos total o parcialmente por el Estado; recargos sobre impuestos estatales y otras participaciones en los ingresos del Estado.
+    a. Impuestos cedidos total o parcialmente por el Estado; recargos sobre impuestos estatales y otras participaciones en los ingresos del Estado.
 
-   b. Sus propios impuestos, tasas y contribuciones especiales.
+    b. Sus propios impuestos, tasas y contribuciones especiales.
 
-   c. Transferencias de un Fondo de Compensación interterritorial y otras asignaciones con cargo a los Presupuestos Generales del Estado.
+    c. Transferencias de un Fondo de Compensación interterritorial y otras asignaciones con cargo a los Presupuestos Generales del Estado.
 
-   d. Rendimientos procedentes de su patrimonio e ingresos de derecho privado.
+    d. Rendimientos procedentes de su patrimonio e ingresos de derecho privado.
 
-   e. El producto de las operaciones de crédito.
+    e. El producto de las operaciones de crédito.
 
 2. Las Comunidades Autónomas no podrán en ningún caso adoptar medidas tributarias sobre bienes situados fuera de su territorio o que supongan obstáculo para la libre circulación de mercancías o servicios.
 
@@ -1410,13 +1569,13 @@ El Presidente del Tribunal Constitucional será nombrado entre sus miembros por 
 
 1. El Tribunal Constitucional tiene jurisdicción en todo el territorio español y es competente para conocer:
 
-   a. Del recurso de inconstitucionalidad contra leyes y disposiciones normativas con fuerza de ley. La declaración de inconstitucionalidad de una norma jurídica con rango de ley, interpretada por la jurisprudencia, afectará a ésta, si bien la sentencia o sentencias recaídas no perderán el valor de cosa juzgada.
+    a. Del recurso de inconstitucionalidad contra leyes y disposiciones normativas con fuerza de ley. La declaración de inconstitucionalidad de una norma jurídica con rango de ley, interpretada por la jurisprudencia, afectará a ésta, si bien la sentencia o sentencias recaídas no perderán el valor de cosa juzgada.
 
-   b. Del recurso de amparo por violación de los derechos y libertades referidos en elArtículo 53, 2, de esta Constitución, en los casos y formas que la ley establezca.
+    b. Del recurso de amparo por violación de los derechos y libertades referidos en elArtículo 53, 2, de esta Constitución, en los casos y formas que la ley establezca.
 
-   c. De los conflictos de competencia entre el Estado y las Comunidades Autónomas o de los de éstas entre sí.
+    c. De los conflictos de competencia entre el Estado y las Comunidades Autónomas o de los de éstas entre sí.
 
-   d. De las demás materias que le atribuyan la Constitución o las leyes orgánicas.
+    d. De las demás materias que le atribuyan la Constitución o las leyes orgánicas.
 
 2. El Gobierno podrá impugnar ante el Tribunal Constitucional las disposiciones y resoluciones adoptadas por los órganos de las Comunidades Autónomas. La impugnación producirá la suspensión de la disposición o resolución recurrida, pero el Tribunal, en su caso, deberá ratificarla o levantarla en un plazo no superior a cinco meses.
 
@@ -1424,11 +1583,11 @@ El Presidente del Tribunal Constitucional será nombrado entre sus miembros por 
 
 1. Están legitimados:
 
-   a. Para interponer el recurso de inconstitucionalidad, el Presidente del Gobierno, el Defensor del Pueblo, 50 Diputados, 50 Senadores, los órganos colegiados ejecutivos de las Comunidades Autónomas y, en su caso, las Asambleas de las mismas.
+    a. Para interponer el recurso de inconstitucionalidad, el Presidente del Gobierno, el Defensor del Pueblo, 50 Diputados, 50 Senadores, los órganos colegiados ejecutivos de las Comunidades Autónomas y, en su caso, las Asambleas de las mismas.
 
-   b. Para interponer el recurso de amparo, toda persona natural o jurídica que invoque un interés legítimo, así como el Defensor del Pueblo y el Ministerio Fiscal.
+    b. Para interponer el recurso de amparo, toda persona natural o jurídica que invoque un interés legítimo, así como el Defensor del Pueblo y el Ministerio Fiscal.
 
-2. En los demás casos, la ley orgánica determinará las personas y órganos legitimados.
+2. En los demás casos, la ley orgánica determinará las personas y órganos legitimados. 
 
 #####Artículo 163
 
@@ -1555,9 +1714,3 @@ En los mismos términos se considera definitivamente derogada la Ley de 21 de ju
 ##DISPOSICION FINAL
 
 Esta Constitución entrará en vigor el mismo día de la publicación de su texto oficial en el boletín oficial del Estado. Se publicará también en las demás lenguas de España.
-
-POR TANTO,
-
-MANDO A TODOS LOS ESPAÑOLES, PARTICULARES Y AUTORIDADES, QUE GUARDEN Y HAGAN GUARDAR ESTA CONSTITUCIÓN COMO NORMA FUNDAMENTAL DEL ESTADO.
-
-PALACIO DE LAS CORTES, A VEINTISIETE DE DICIEMBRE DE MIL NOVECIENTOS SETENTA Y OCHO.
